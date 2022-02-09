@@ -8,7 +8,7 @@ Nesta etapa, desenvolvi um E-mail marketing da Mais dental, para o processo sele
 
 ### Links
 - [repositório](https://github.com/JimCarey08/etapa_02-processoMarlin/)
-- [email-live]()
+- [email-live](https://jimcarey08.github.io/etapa_02-processoMarlin/)
 
 ## Processo de desenvolvimento
 
